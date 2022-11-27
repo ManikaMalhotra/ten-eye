@@ -9,6 +9,8 @@ Through this project, I learned how to
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+![image](https://user-images.githubusercontent.com/78276488/204134637-897db29f-72fd-4a3f-ba17-3c1ecedc4ab1.png)
+
 ## How to run the application on your local environment
 1. Clone the repository using the command below.
 ```
